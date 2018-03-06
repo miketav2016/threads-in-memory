@@ -9,6 +9,8 @@ The result should be:
 
 · Test application demonstrates the advantage of implementation over the standard std :: map.
 
+The test result is the run-time ratio in 1 and n threads.
+
 Microsoft Visual Studio Community 2017     
 Version 15.5.3             
 VisualStudio.15.Release / 15.5.3 + 27130.2020             
